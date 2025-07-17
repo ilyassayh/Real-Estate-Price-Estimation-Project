@@ -48,8 +48,3 @@ Ce projet propose une application Streamlit permettant d'estimer le prix d'un bi
 - `final_modele.joblib` : Modèle XGBoost sauvegardé.
 - `app.py` : Application Streamlit.
 - `requirements.txt` : Dépendances Python.
-
-## 🙏 Remerciements
-Projet réalisé dans le cadre de la formation Simplon.
-
-N'hésitez pas à contribuer ou à proposer des améliorations ! 
